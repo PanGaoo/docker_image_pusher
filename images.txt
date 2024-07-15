@@ -6,3 +6,5 @@
 --platform=linux/arm64 nicolargo/glances:4.1.2.1
 --platform=linux/arm64 corentinth/it-tools:2024.5.13-a0bc346
 --platform=linux/arm64 whyour/qinglong:debian
+--platform=linux/arm64 whyour/qinglong:latest
+--platform=linux/arm64 jason5ng32/myip:latest
