@@ -10,4 +10,5 @@
 --platform=linux/arm64 jason5ng32/myip:latest
 --platform=linux/arm64 neosmemo/memos:latest
 --platform=linux/arm64 screego/server:1
+--platform=linux/amd64 screego/server:1
 --platform=linux/arm64 lovasoa/wbo:latest
