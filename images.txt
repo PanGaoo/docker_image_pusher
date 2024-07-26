@@ -7,6 +7,7 @@
 --platform=linux/arm64 corentinth/it-tools:2024.5.13-a0bc346
 --platform=linux/arm64 whyour/qinglong:debian
 --platform=linux/arm64 whyour/qinglong:latest
+--platform=linux/amd64 whyour/qinglong:latest
 --platform=linux/arm64 jason5ng32/myip:latest
 --platform=linux/arm64 neosmemo/memos:latest
 --platform=linux/arm64 screego/server:1
