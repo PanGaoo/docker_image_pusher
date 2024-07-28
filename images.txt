@@ -13,3 +13,4 @@
 --platform=linux/arm64 screego/server:1
 --platform=linux/amd64 screego/server:1
 --platform=linux/arm64 lovasoa/wbo:latest
+1panel/maxkb:latest
