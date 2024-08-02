@@ -14,3 +14,5 @@
 --platform=linux/amd64 screego/server:1
 --platform=linux/arm64 lovasoa/wbo:latest
 1panel/maxkb:latest
+--platform=linux/amd64 nginx:stable-perl
+--platform=linux/amd64 vaultwarden/server:latest
