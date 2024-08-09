@@ -16,3 +16,4 @@
 1panel/maxkb:latest
 --platform=linux/amd64 nginx:stable-perl
 --platform=linux/amd64 vaultwarden/server:latest
+cloudflare/cloudflared:latest
