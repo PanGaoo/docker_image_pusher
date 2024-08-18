@@ -17,5 +17,7 @@
 #--platform=linux/amd64 nginx:stable-perl
 #--platform=linux/amd64 vaultwarden/server:latest
 #cloudflare/cloudflared:latest
---platform=linux/amd64 caronc/apprise:latest
---platform=linux/amd64 mzz2017/v2raya
+#--platform=linux/amd64 caronc/apprise:latest
+#--platform=linux/amd64 mzz2017/v2raya
+--platform=linux/amd64 prom/prometheus:latest
+--platform=linux/amd64 grafana/grafana:latest
