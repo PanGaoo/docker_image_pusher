@@ -19,5 +19,6 @@
 #cloudflare/cloudflared:latest
 #--platform=linux/amd64 caronc/apprise:latest
 #--platform=linux/amd64 mzz2017/v2raya
---platform=linux/amd64 prom/prometheus:latest
---platform=linux/amd64 grafana/grafana:latest
+--platform=linux/arm64 mzz2017/v2raya:latest
+#--platform=linux/amd64 prom/prometheus:latest
+#--platform=linux/amd64 grafana/grafana:latest
