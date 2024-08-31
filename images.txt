@@ -22,6 +22,8 @@
 #--platform=linux/arm64 mzz2017/v2raya:latest
 #--platform=linux/amd64 prom/prometheus:latest
 #--platform=linux/amd64 grafana/grafana:latest
---platform=linux/arm64 louislam/uptime-kuma:latest
---platform=linux/amd64 louislam/uptime-kuma:latest
-
+#--platform=linux/arm64 louislam/uptime-kuma:latest
+#--platform=linux/amd64 louislam/uptime-kuma:latest
+--platform=linux/amd64 vx3r/wg-gen-web:latest
+--platform=linux/arm64 vx3r/wg-gen-web:latest
+--platform=linux/arm/v7 vx3r/wg-gen-web:latest
