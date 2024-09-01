@@ -27,5 +27,8 @@
 #--platform=linux/amd64 vx3r/wg-gen-web:latest
 #--platform=linux/arm64 vx3r/wg-gen-web:latest
 #--platform=linux/arm/v7 vx3r/wg-gen-web:latest
---platform=linux/amd64 portainer/portainer-ce:2.21.0
---platform=linux/arm64 portainer/portainer-ce:2.21.0
+#--platform=linux/amd64 portainer/portainer-ce:2.21.0
+#--platform=linux/arm64 portainer/portainer-ce:2.21.0
+--platform=linux/arm/v7 yisier1/npc:latest
+--platform=linux/amd64 yisier1/npc:latest
+--platform=linux/arm64 yisier1/npc:latest
