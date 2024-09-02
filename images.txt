@@ -32,6 +32,13 @@
 #--platform=linux/arm/v7 yisier1/npc:latest
 #--platform=linux/amd64 yisier1/npc:latest
 #--platform=linux/arm64 yisier1/npc:latest
---platform=linux/arm/v7 caddy:latest
---platform=linux/amd64 caddy:latest
---platform=linux/arm64 caddy:latest
+#--platform=linux/arm/v7 caddy:latest
+#--platform=linux/amd64 caddy:latest
+#--platform=linux/arm64 caddy:latest
+--platform=linux/amd64 zabbix/zabbix-web-nginx-mysql:trunk-ubuntu
+--platform=linux/arm64 zabbix/zabbix-web-nginx-mysql:trunk-ubuntu
+--platform=linux/arm/v7 zabbix/zabbix-agent:ubuntu-trunk
+--platform=linux/amd64 zabbix/zabbix-agent:ubuntu-trunk
+--platform=linux/arm64 zabbix/zabbix-agent:ubuntu-trunk
+--platform=linux/amd64 zabbix/zabbix-server-mysql:ubuntu-trunk
+--platform=linux/arm64 zabbix/zabbix-server-mysql:ubuntu-trunk
