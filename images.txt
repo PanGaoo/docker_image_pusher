@@ -35,10 +35,10 @@
 #--platform=linux/arm/v7 caddy:latest
 #--platform=linux/amd64 caddy:latest
 #--platform=linux/arm64 caddy:latest
---platform=linux/amd64 zabbix/zabbix-web-nginx-mysql:ubuntu-trunk
---platform=linux/arm64 zabbix/zabbix-web-nginx-mysql:ubuntu-trunk
 #--platform=linux/arm/v7 zabbix/zabbix-agent:ubuntu-trunk
 #--platform=linux/amd64 zabbix/zabbix-agent:ubuntu-trunk
 #--platform=linux/arm64 zabbix/zabbix-agent:ubuntu-trunk
 #--platform=linux/amd64 zabbix/zabbix-server-mysql:ubuntu-trunk
 #--platform=linux/arm64 zabbix/zabbix-server-mysql:ubuntu-trunk
+--platform=linux/amd64 zabbix/zabbix-web-nginx-mysql:ubuntu-trunk
+--platform=linux/arm64 zabbix/zabbix-web-nginx-mysql:ubuntu-trunk
