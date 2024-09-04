@@ -42,10 +42,13 @@
 #--platform=linux/arm64 zabbix/zabbix-server-mysql:ubuntu-trunk
 #--platform=linux/amd64 zabbix/zabbix-web-nginx-mysql:ubuntu-trunk
 #--platform=linux/arm64 zabbix/zabbix-web-nginx-mysql:ubuntu-trunk
---platform=linux/amd64 hslr/sun-panel:latest
---platform=linux/amd64 hslr/sun-panel:latest
---platform=linux/arm/v7 hslr/sun-panel:latest
---platform=linux/amd64 stonith404/pingvin-share:latest
---platform=linux/amd64 stonith404/pingvin-share:latest
---platform=linux/amd64 neosmemo/memos:latest
---platform=linux/amd64 neosmemo/memos:latest
+#--platform=linux/amd64 hslr/sun-panel:latest
+#--platform=linux/amd64 hslr/sun-panel:latest
+#--platform=linux/arm/v7 hslr/sun-panel:latest
+#--platform=linux/amd64 stonith404/pingvin-share:latest
+--platform=linux/arm64 stonith404/pingvin-share:latest
+#--platform=linux/amd64 neosmemo/memos:latest
+--platform=linux/arm64 neosmemo/memos:latest
+--platform=linux/amd64 rustdesk/rustdesk-server:latest
+--platform=linux/arm64 rustdesk/rustdesk-server:latest
+
