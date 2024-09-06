@@ -46,9 +46,10 @@
 #--platform=linux/amd64 hslr/sun-panel:latest
 #--platform=linux/arm/v7 hslr/sun-panel:latest
 #--platform=linux/amd64 stonith404/pingvin-share:latest
---platform=linux/arm64 stonith404/pingvin-share:latest
+#--platform=linux/arm64 stonith404/pingvin-share:latest
 #--platform=linux/amd64 neosmemo/memos:latest
---platform=linux/arm64 neosmemo/memos:latest
---platform=linux/amd64 rustdesk/rustdesk-server:latest
---platform=linux/arm64 rustdesk/rustdesk-server:latest
-
+#--platform=linux/arm64 neosmemo/memos:latest
+#--platform=linux/amd64 rustdesk/rustdesk-server:latest
+#--platform=linux/arm64 rustdesk/rustdesk-server:latest
+--platform=linux/amd64 minio/minio:latest
+--platform=linux/arm64 minio/minio:latest
