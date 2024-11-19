@@ -51,5 +51,6 @@
 #--platform=linux/arm64 neosmemo/memos:latest
 #--platform=linux/amd64 rustdesk/rustdesk-server:latest
 #--platform=linux/arm64 rustdesk/rustdesk-server:latest
---platform=linux/amd64 minio/minio:latest
---platform=linux/arm64 minio/minio:latest
+#--platform=linux/amd64 minio/minio:latest
+#--platform=linux/arm64 minio/minio:latest
+ghcr.io/aquasecurity/trivy-db:2
